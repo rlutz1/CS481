@@ -1,0 +1,7 @@
+set(CMAKE_INCLUDE_CURRENT_DIR ON)
+
+set(src_SOURCES
+    ${SOURCE_NAME}/src.hpp
+    PARENT_SCOPE
+    )
+
